@@ -11,7 +11,7 @@ import javax.persistence.ManyToMany;
 
 @Entity
 public class Author {
-	/*1256*/
+	/*888*/
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
